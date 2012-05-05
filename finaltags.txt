@@ -1,0 +1,41 @@
+LINE : 10169 : 6076 :tags: new york skyscraper manhattan
+
+
+
+LINE : 10238 : 6124 :tags: new york
+
+
+
+LINE : 10291 : 6175 :tags: new york
+
+
+
+LINE : 10295 : 6179 :tags: new york
+
+
+
+LINE : 10298 : 6182 :tags: new york
+
+
+
+LINE : 10305 : 6189 :tags: new york
+
+
+
+LINE : 10308 : 6192 :tags: new york
+
+
+
+LINE : 10310 : 6194 :tags: new york
+
+
+
+LINE : 10311 : 6195 :tags: new york
+
+
+
+LINE : 10326 : 6205 :tags: 
+
+
+
+york, new, manhattan, skyscraper, 
